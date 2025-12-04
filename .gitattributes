@@ -1,0 +1,2 @@
+# Ignore all HTML result files in results/ for language stats
+results/shap/*.html linguist-generated=true
